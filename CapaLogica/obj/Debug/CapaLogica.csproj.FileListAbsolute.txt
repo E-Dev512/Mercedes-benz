@@ -1,0 +1,9 @@
+D:\CSharp_Development\Mercedes benz\CapaLogica\bin\Debug\CapaLogica.dll
+D:\CSharp_Development\Mercedes benz\CapaLogica\bin\Debug\CapaLogica.pdb
+D:\CSharp_Development\Mercedes benz\CapaLogica\bin\Debug\CapaDatos.dll
+D:\CSharp_Development\Mercedes benz\CapaLogica\bin\Debug\CapaDatos.pdb
+D:\CSharp_Development\Mercedes benz\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+D:\CSharp_Development\Mercedes benz\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+D:\CSharp_Development\Mercedes benz\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+D:\CSharp_Development\Mercedes benz\CapaLogica\obj\Debug\CapaLogica.dll
+D:\CSharp_Development\Mercedes benz\CapaLogica\obj\Debug\CapaLogica.pdb
